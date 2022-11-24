@@ -1,0 +1,8 @@
+# node
+./node_modules
+
+# variables de entorno del proyecto
+.env
+
+dist
+node_modules
